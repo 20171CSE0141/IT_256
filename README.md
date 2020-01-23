@@ -1,4 +1,2 @@
 # IT_256
 IT LAB
-HAI 
-EVERYONE
